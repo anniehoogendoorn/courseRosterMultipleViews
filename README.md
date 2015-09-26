@@ -1,6 +1,6 @@
 # _Course Roster Multiple Views_
 
-##### Epicodus exercise 9/23/2015_
+##### Epicodus exercise 9/26/2015_
 
 #### By Annie Hoogendoorn
 
